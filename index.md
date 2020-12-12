@@ -2,6 +2,8 @@
 ### I am Kilian aka KillCrafter1.
 
 ##Profile
--sdf sf
--sdfsdf
-- sdfdsf
+
+-Name: Kilian (IG: KillCrafter1)
+-Location: Germany
+-Coding skills in: Java, Web development (HTML, CSS, JavaScript)
+-dfdsf
