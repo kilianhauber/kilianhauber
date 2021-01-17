@@ -42,5 +42,6 @@ If you want to get in touch with me (for whatever reason) just shoot me an [E-Ma
   
 - [Twitter](https://twitter.com/kilihbr)
 
+---
 
 <img align="left" alt="Some Stats about Me" src="https://github-readme-stats.vercel.app/api?username=kilihbr&show_icons=true&hide_border=true&count_private=true" />       
