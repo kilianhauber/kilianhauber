@@ -22,7 +22,7 @@ I'm currently working on a few Discord-Bots like [Herukan](https://herukan.com) 
 ### 💻 Equipment:
 
 - Editors: 
-  - IntelliJ & Visual Studio Code
+  - IntelliJ IDEA & Visual Studio Code
 - Computer: 
   - CPU: AMD Ryzen 5 2600
   - GPU: MSI RX 570
