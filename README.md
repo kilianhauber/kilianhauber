@@ -2,7 +2,7 @@
 
 ### 👱‍♂️ About Me:
 
-I'm Kilian from German. I am a Student & Freelance Developer and I'm currently building a Company called ([Zyonic Software](https://github.com/zyonic-software/)) with a some other people and friends.
+I'm Kilian from German. I am a Student & Freelance Developer and I'm currently building a Company called [Zyonic Software](https://github.com/zyonic-software/) with a some other people and friends.
 
 If you are wondering why my personal account here is so empty, I mostly work on projects that are private or ones that are Zyonic or Herukan projects. I post here only occasionally "funny" things or smaller test projects and design ideas.
 
@@ -10,7 +10,7 @@ I'm currently working on a few Discord-Bots like [Herukan](https://herukan.com) 
 
 ### 🏅 My badges:
 
-If you need assistance in any Project involving Minecraft, Elite:Dangerous Data Collection or Discord, feel free to contact me, and I'll help you if I like your Project, providing I have time of course.
+- Discord "Early verified Bot Developer" 💎
 
 ### 📫 Contact me:
 
