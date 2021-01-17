@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-### About Me:
+### 👤 About Me:
 
 I'm Kilian from German. I am a Student & Freelance Developer and I'm currently building a Company called ([Zyonic Software](https://github.com/zyonic-software/)) with a some other people and friends.
 
@@ -8,11 +8,11 @@ If you are wondering why my personal account here is so empty, I mostly work on 
 
 I'm currently working on a few Discord-Bots like [Herukan](https://herukan.com) (which is based on @AzraAnimating 's [Maddox](https://github.com/zyonic-software/maddox-v2/) framework) and some App and Web stuff.
 
-### 👯 Working with me
+### 🏅 My badges:
 
 If you need assistance in any Project involving Minecraft, Elite:Dangerous Data Collection or Discord, feel free to contact me, and I'll help you if I like your Project, providing I have time of course.
 
-### 📫 Contacting
+### 📫 Contact me:
 
 If you want to get in touch with me (for whatever reason) just shoot me an [E-Mail](mailto:kilihbr@gmail.com) or contact me on Discord (AzraAnimating#3851).
 
