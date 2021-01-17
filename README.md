@@ -11,7 +11,7 @@ I'm currently working on a few Discord-Bots like [Herukan](https://herukan.com) 
 ### ⌨️ Programming skills
 
 - Java
-- Web (HTML, CSS, JS)
+- Web (HTML , CSS , JS)
 - SQL
 - Flutter
 
