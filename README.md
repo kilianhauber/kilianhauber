@@ -20,7 +20,7 @@ I'm currently working on a few Discord-Bots like [Herukan](https://herukan.com) 
 ---
 ### 🏅 My badges:
 
-- Discord "Early verified Bot Developer" 💎
+- Discord "Early Verified Bot Developer" 💎
 ---
 ### 💻 Equipment:
 
