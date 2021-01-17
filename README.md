@@ -1,5 +1,7 @@
 # Hello world! 👋
 
+---
+
 ### 👱‍♂️ About Me:
 
 I'm Kilian from German. I am a Student & Freelance Developer and I'm currently building a Company called [Zyonic Software](https://github.com/zyonic-software/) with a some other people and friends.
