@@ -8,6 +8,13 @@ If you are wondering why my personal account here is so empty, I mostly work on 
 
 I'm currently working on a few Discord-Bots like [Herukan](https://herukan.com) (which is based on @AzraAnimating 's [Maddox](https://github.com/zyonic-software/maddox-v2/) framework) and some App and Web stuff.
 
+### ⌨️ Programming skills
+
+- Java
+- Web (HTML, CSS, JS)
+- SQL
+- Flutter
+
 ### 🏅 My badges:
 
 - Discord "Early verified Bot Developer" 💎
