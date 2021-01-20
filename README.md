@@ -51,6 +51,8 @@ If you want to get in touch with me (for whatever reason) just shoot me an [E-Ma
 
 <img align="left" alt="Some Stats about Me" src="https://github-readme-stats.vercel.app/api?username=kilihbr&show_icons=true&hide_border=true&count_private=true" />
 
+<br>
+
 ## 🧭 Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilihbr&layout=compact&bg_color=DEG,0xF7DC6F,0x3498DB)](https://github.com/kilihbr/github-readme-stats)
