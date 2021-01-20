@@ -46,15 +46,16 @@ If you want to get in touch with me (for whatever reason) just shoot me an [E-Ma
 
 ---
 
-  
+<br />
+
 ## 📈 Github Stats
 
 <p align="left">
-<img align="left" alt="Some Stats about Me" src="https://github-readme-stats.vercel.app/api?username=kilihbr&show_icons=true&hide_border=true&count_private=true" />
+<img align="center" alt="kilihbr#s Github Stats" src="https://github-readme-stats.vercel.app/api?username=kilihbr&show_icons=true&count_private=true" />
 </p>
+
 <br>
 
 ## 🧭 Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilihbr&layout=compact&bg_color=DEG,0xF7DC6F,0x3498DB)](https://github.com/kilihbr/github-readme-stats)
-
