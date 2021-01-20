@@ -45,7 +45,6 @@ If you want to get in touch with me (for whatever reason) just shoot me an [E-Ma
 - [Twitter](https://twitter.com/kilihbr)
 
 ---
-
 <br />
 
 ## 📈 Github Stats
