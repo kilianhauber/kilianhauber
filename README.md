@@ -4,7 +4,7 @@
 
 ### 👱‍♂️ About Me:
 
-I'm Kilian from Germany. I am a Student & Freelance Developer and I'm currently building a Company called [Zyonic Software](https://github.com/zyonic-software/) with a some other people and friends.
+I'm Kilian Hauber from Germany. I am a Student & Freelance Developer and I'm currently building a Company called [Zyonic Software](https://github.com/zyonic-software/) with a some other people and friends.
 
 If you are wondering why my personal account here is so empty, I mostly work on projects that are private or ones that are Zyonic or Herukan projects. I post here only occasionally "funny" things or smaller test projects and design ideas.
 
