@@ -51,12 +51,13 @@ If you want to get in touch with me (for whatever reason) just shoot me an [E-Ma
 
 ## 📈 Github Stats
 
-<p align="left">
-<img align="center" alt="kilihbr#s Github Stats" src="https://github-readme-stats.vercel.app/api?username=kilihbr&show_icons=true&count_private=true" />
-</p>
+![ ](https://komarev.com/ghpvc/?username=kilihbrT&style=flat-square&color=blueviolet)
+
+![ ](https://github-readme-stats.vercel.app/api?username=kilihbr&show_icons=true&theme=dracula)
 
 <br>
 
 ## 🧭 Language Stats
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilihbr&layout=compact&bg_color=DEG,0xF7DC6F,0x3498DB)](https://github.com/kilihbr/kilihbr)
+
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=kilihbr&theme=dracula&show_icons=true)
+
