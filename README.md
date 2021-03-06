@@ -51,7 +51,7 @@ If you want to get in touch with me (for whatever reason) just shoot me an [E-Ma
 
 ## 📈 Github Stats
 
-![ ](https://komarev.com/ghpvc/?username=kilihbrT&style=flat-square&color=blueviolet)
+![ ](https://komarev.com/ghpvc/?username=kilihbr&style=flat-square&color=blueviolet)
 
 ![ ](https://github-readme-stats.vercel.app/api?username=kilihbr&show_icons=true&theme=dracula)
 
