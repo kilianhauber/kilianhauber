@@ -12,18 +12,11 @@ I'm currently working on a few Discord-Bots like [Herukan](https://herukan.com) 
 
 ---
 ### ⌨️ Programming skills:
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node JS" height="40" style="vertical-align:top; margin:4px">
-  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fflutter-community%2Ffunctional-bits-in-flutter-dc0881a99161&psig=AOvVaw1BZGAXzR19OfBMZUP3KefQ&ust=1616570896648000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPichIjyxe8CFQAAAAAdAAAAABAD" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-- Web (HTML , CSS , JS)
-- SQL
+- Java
+- NodeJS
+- Web (HTML & CSS)
 - Flutter
+- Python
 ---
 ### 🏅 My badges:
 
