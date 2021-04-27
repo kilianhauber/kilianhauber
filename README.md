@@ -34,7 +34,7 @@ I'm currently working on a few Discord-Bots like [Herukan](https://herukan.com) 
 ---
 ### 📫 Contact me:
 
-If you want to get in touch with me (for whatever reason) just shoot me an [E-Mail](mailto:kilian.hauber@zyonic.de) or contact me on Discord (KillCrafter1#2073).
+If you want to get in touch with me (for whatever reason) just send me an [E-Mail](mailto:kilian.hauber@zyonic.de) or contact me on Discord (KillCrafter1#2073).
 
 ---
 ### ⚡ Fun Links:
