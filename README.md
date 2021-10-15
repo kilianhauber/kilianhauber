@@ -8,7 +8,7 @@ I'm Kilian Hauber from Germany. I am a Student & Freelance Developer and I'm cur
 
 If you are wondering why my personal account here is so empty, I mostly work on projects that are private or ones that are Zyonic or Herukan projects. I post here only occasionally "funny" things or smaller test projects and design ideas.
 
-I'm currently working on a few Discord-Bots like [Herukan](https://herukan.com) (which is based on @AzraAnimating 's [Maddox](https://github.com/zyonic-software/maddox-v2/) framework) and some App and Web stuff.
+I'm currently working on a few Discord-Bots like [Herukan](https://herukan.xyz) (which is based on @AzraAnimating 's [Maddox](https://github.com/zyonic-software/maddox-v2/) framework) and some App and Web stuff.
 
 ---
 ### ⌨️ Programming skills:
