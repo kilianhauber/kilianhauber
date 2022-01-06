@@ -13,10 +13,9 @@ I'm currently working on a few Discord-Bots like [Herukan](https://herukan.xyz) 
 ---
 ### ⌨️ Programming skills:
 - Java
-- NodeJS
+- NextJS (React)
 - Web (HTML & CSS)
-- Flutter
-- Python
+- Flutter (Dart)
 ---
 ### 🏅 My badges:
 
