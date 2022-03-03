@@ -58,5 +58,5 @@ If you want to get in touch with me (for whatever reason) just send me an [E-Mai
 
 ## 🧭 Language Stats
 
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=kilihbr&theme=dracula&show_icons=true)
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=kilianhauber&theme=dracula&show_icons=true)
 
