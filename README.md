@@ -50,9 +50,9 @@ If you want to get in touch with me (for whatever reason) just send me an [E-Mai
 
 ## 📈 Github Stats
 
-![ ](https://komarev.com/ghpvc/?username=kilihbr&style=flat-square&color=blueviolet)
+![ ](https://komarev.com/ghpvc/?username=kilianhauber&style=flat-square&color=blueviolet)
 
-![ ](https://github-readme-stats.vercel.app/api?username=kilihbr&show_icons=true&theme=dracula)
+![ ](https://github-readme-stats.vercel.app/api?username=kilianhauber&show_icons=true&theme=dracula)
 
 <br>
 
