@@ -16,6 +16,9 @@ I'm currently working on a few Discord-Bots like [Herukan](https://herukan.xyz) 
 - NextJS (React)
 - Web (HTML & CSS)
 - Flutter (Dart)
+- C#
+- Python
+- TailwindCSS
 ---
 ### 🏅 My badges:
 
