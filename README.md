@@ -23,6 +23,7 @@ I'm currently working on a few Discord-Bots like [Herukan](https://herukan.xyz) 
 ### 🏅 My badges:
 
 - Discord "Early Verified Bot Developer" 💎
+- SendinBlue "E-Mail-Marketing" Zertifikat
 ---
 ### 💻 Equipment:
 
